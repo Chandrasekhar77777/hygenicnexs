@@ -1,0 +1,8 @@
+{
+  "name": "python-web-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python new.py"
+  }
+}

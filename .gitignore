@@ -1,0 +1,6 @@
+# Add files and directories to be ignored by netlify
+__pycache__/
+*.pyc
+.env
+.venv/
+node_modules/
